@@ -29,3 +29,9 @@ After that I've started the analyzing and visualization process, along the requi
 - What time should we display advertisemens to maximize the likelihood of customer’s buying product?
 - What products are most often sold together?
 - What product sold the most? Why do you think it sold the most?
+
+## Tableau Dataviz
+
+You can find it here: https://public.tableau.com/views/SalesData-Analysis-2019/SalesAnalysis_2019
+
+This visualization made after the cleaning process.
